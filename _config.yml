@@ -1,7 +1,7 @@
 name: Azure Couture
 favicon: null
-layout_spectrum: 0.029420060105621815
-typography_spectrum: 0.7755951867438853
+layout_spectrum: 0
+typography_spectrum: 0.7541
 title: 'Unforgettable & Stylish Stationery'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.34579945146106184
-  lightness: 0.9223940423689783
-  saturation: 0.9982944848015904
-  rhythmicContrast: 0.02890215115621686
+    - '#cfd6ce'
+    - '#03091f'
+    - '#064e67'
+    - '#65a7b5'
+    - '#007e94'
+  brandStrength: 0.3125
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
