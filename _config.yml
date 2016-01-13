@@ -1,0 +1,28 @@
+name: Azure Couture
+favicon: null
+layout_spectrum: 0.029420060105621815
+typography_spectrum: 0.7755951867438853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.34579945146106184
+  lightness: 0.9223940423689783
+  saturation: 0.9982944848015904
+  rhythmicContrast: 0.02890215115621686
+purpose: []
